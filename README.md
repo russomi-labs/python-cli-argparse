@@ -8,6 +8,7 @@
   - [Prerequisites](#prerequisites)
   - [Installing](#installing)
 - [Usage](#usage)
+- [References](#references)
 
 ## Overview
 
@@ -52,3 +53,7 @@ End with an example of getting some data out of the system or using it for a lit
 ## Usage
 
 Add notes about how to use the system.
+
+## References
+
+- [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/#what-is-a-command-line-interface)
