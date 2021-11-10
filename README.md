@@ -1,21 +1,23 @@
-# Project Title
+# python-cli-argparse
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
 - [Usage](#usage)
-- [Contributing](CONTRIBUTING.md)
 
-## About <a name = "about"></a>
+## Overview
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started
 
 You can [create](https://cli.github.com/manual/gh_repo_create) a new repo using this template via the `gh` cli:
 
-``` bash
+```bash
 # gh repo create [<name>] [flags]
 gh repo create gitops-labs/my-repo \
     --template gitops-labs/template
@@ -25,7 +27,7 @@ gh repo create gitops-labs/my-repo \
 
 What things you need to install the software and how to install them.
 
-``` bash
+```bash
 brew install gh
 ```
 
@@ -47,6 +49,6 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+## Usage
 
 Add notes about how to use the system.
