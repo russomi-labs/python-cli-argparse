@@ -57,3 +57,6 @@ Add notes about how to use the system.
 ## References
 
 - [How to Build Command Line Interfaces in Python With argparse](https://realpython.com/command-line-interfaces-python-argparse/#what-is-a-command-line-interface)
+- [Do-nothing scripting: the key to gradual automation](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+- [Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
+- [AWS cloudendure migration factory solution](https://github.com/awslabs/aws-cloudendure-migration-factory-solution)
