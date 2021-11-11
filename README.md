@@ -8,7 +8,21 @@
 
 ## Overview
 
-Write about 1-2 paragraphs describing the purpose of your project.
+The command line interface (also known as CLI) is a means to interact with a command line script. Python comes with several different libraries that allow you to write a command line interface for your scripts, but the standard way for creating a CLI in Python is currently the Python `argparse` library.
+
+The Python `argparse` library:
+
+- Allows the use of positional arguments
+- Allows the customization of the prefix chars
+- Supports variable numbers of parameters for a single option
+- Supports subcommands (A main command line parser can use other command line parsers depending on some arguments.)
+
+Using the Python `argparse` library has four steps:
+
+1. Import the Python argparse library
+2. Create the parser
+3. Add optional and positional arguments to the parser
+4. Execute .parse_args()
 
 ## Getting Started
 
