@@ -71,3 +71,5 @@ Add notes about how to use the system.
 - [Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
 - [AWS cloudendure migration factory solution](https://github.com/awslabs/aws-cloudendure-migration-factory-solution)
 - [How to Write Python Command-Line Interfaces like a Pro](https://towardsdatascience.com/how-to-write-python-command-line-interfaces-like-a-pro-f782450caf0d)
+- [argparse — Parser for command-line options, arguments and sub-commands](https://docs.python.org/3/library/argparse.html)
+- [Argparse Tutorial](https://docs.python.org/3/howto/argparse.html)
