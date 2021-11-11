@@ -73,3 +73,7 @@ Add notes about how to use the system.
 - [How to Write Python Command-Line Interfaces like a Pro](https://towardsdatascience.com/how-to-write-python-command-line-interfaces-like-a-pro-f782450caf0d)
 - [argparse — Parser for command-line options, arguments and sub-commands](https://docs.python.org/3/library/argparse.html)
 - [Argparse Tutorial](https://docs.python.org/3/howto/argparse.html)
+- https://mike.depalatis.net/blog/simplifying-argparse.html
+- https://github.com/alephnull/rfw/blob/master/rfw/rfwc.py
+- https://gist.github.com/mivade/384c2c41c3a29c637cb6c603d4197f9f
+- https://github.com/mivade/arghelp
