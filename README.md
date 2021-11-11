@@ -1,8 +1,4 @@
 # python-cli-argparse
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
