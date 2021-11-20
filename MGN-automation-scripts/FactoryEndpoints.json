@@ -1,6 +1,6 @@
 {
-    "LoginApiUrl":"https://xxxxxx.execute-api.us-east-1.amazonaws.com",
-    "UserApiUrl":"https://xxxxxx.execute-api.us-east-1.amazonaws.com",
-    "Region":"xxxxxx",
-    "UserPoolId":"xxxxxx"
+  "LoginApiUrl": "https://g10h3kkyi8.execute-api.us-west-2.amazonaws.com",
+  "UserApiUrl": "https://q1tj6e62w3.execute-api.us-west-2.amazonaws.com",
+  "Region": "us-west-2",
+  "UserPoolId": "us-west-2_RkKU7nAsn"
 }
