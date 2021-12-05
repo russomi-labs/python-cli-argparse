@@ -292,3 +292,8 @@ def uploading_data(data, token, UserHOST):
                                     "If the API endpoint is correct, please close cmd and open a new cmd to run the script again")
 
 ```
+
+## Resources
+
+- https://docs.aws.amazon.com/solutions/latest/aws-cloudendure-migration-factory-solution/deployment.html#step5
+- https://docs.aws.amazon.com/solutions/latest/aws-cloudendure-migration-factory-solution/automated-migration-activities-mgn.html
